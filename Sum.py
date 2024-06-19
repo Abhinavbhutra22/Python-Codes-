@@ -1,0 +1,6 @@
+fn=input("Enter  first number:")
+sn=input("Enter  second number:")
+sum=int(fn)+int(sn)
+average=int(sum/2)
+print("Sum of Two numbers are:",sum)
+print("Average of Two numbers",average)
